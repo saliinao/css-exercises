@@ -5,12 +5,12 @@
 }
 
 #second{
-    color:blue;
+    color: blue;
     font-size: 32px;
 }
 
-#third{
-    font-size:24px;
+.third{
+    font-size: 24px;
 }
 
 #fourth{
